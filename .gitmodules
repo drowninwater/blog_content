@@ -1,0 +1,3 @@
+[submodule "voidreamy/hugo-theme-stack"]
+	path = voidreamy/hugo-theme-stack
+	url = git@github.com:CaiJimmy/hugo-theme-stack.git
