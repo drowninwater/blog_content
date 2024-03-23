@@ -1,3 +1,7 @@
 [submodule "voidreamy/hugo-theme-stack"]
 	path = voidreamy/hugo-theme-stack
 	url = git@github.com:CaiJimmy/hugo-theme-stack.git
+[submodule "voidreamy/public"]
+    path = voidreamy/public
+    url = git@github.com:voidreaming/blog_content/voidreamy/public
+
