@@ -3,5 +3,6 @@
 	url = git@github.com:CaiJimmy/hugo-theme-stack.git
 [submodule "voidreamy/public"]
     path = voidreamy/public
-    url = git@github.com:voidreaming/blog_content/tree/main/voidreamy/public
+    url = git@github.com:voidreaming/blog_content/tree/main/voidreamy/public.git
+
 
